@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://lucianamcustodio.github.io/FEMProductPreviewCard/)
+- URL da Solução: [Clica aqui!](https://lucianamcustodio.github.io/FEMProductPreviewCard/)
 
 ### Built with
 
