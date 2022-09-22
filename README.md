@@ -72,7 +72,7 @@ Então creio que no próximo será muito mais rápido.
 
 ## Author
 
-- GitHub - [Add your name here](https://github.com/Lucianamcustodio)
+- GitHub - [Luciana Custódio](https://Lucianamcustodio.github.io)
 - Frontend Mentor - [@lucianamcustodio](https://www.frontendmentor.io/profile/yourusername)
 - Linkedin - [Luciana Moreira Custódio](https://www.linkedin.com/in/lucianamcustodio/)
 
