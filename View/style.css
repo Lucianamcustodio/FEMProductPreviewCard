@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+/*font-family: 'Fraunces',
+serif;font-family: 'Montserrat', sans-serif;}
+Font size (paragraph): 14px}*/
+
+* {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+}
+
+body {
+    margin: 20rem;
+    /* align-items: center; */
+    background-color:
+    hsl(30, 38%, 92%);
+}
+
+{
+    Dark cyan: hsl(158, 36%, 37%) 
+    Very dark blue: hsl(212, 21%, 14%) Dark grayish
+    blue: hsl(228, 12%, 48%)
+    White: hsl(0, 0%, 100%)
+}
+.card{
+    margin-left: 10rem;
+    /* margin: 0px; */
+    /* align-items: center; */
+    display: flex;
+    width: 29rem;
+    height: 20rem;
+    background: hsl(0, 0%, 100%);
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+    /* align-items: flex-end; */
+}
+
+.fotoprod {
+    
+    height: 20rem;
+}
+
+.descrprod{
+    background: white;
+    margin: auto;
+    /* width: 19rem; */
+    height: 19rem;
+}
+.descrprod{ }
+.containerfrases{
+    font-size: 14px;
+    margin: 1rem;
+}
+button {}
+.carrinho{}

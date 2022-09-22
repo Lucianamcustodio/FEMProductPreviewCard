@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+
+
+* {
+      max-width: 1440px;
+      margin: 0;
+      max-height: 900px;
+}
+
+body {
+    position: fixed;
+    top: 35vh;
+    left: 41vw;
+    width: 16.5em;
+    transform: scale3d(1.5, 1.5, 0.5);
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card {
+    /* position: fixed; */
+    /* top: 50%; */
+    /* left: 152%; */
+}
+
+.box {
+    box-sizing: border-box;
+    border-radius: 8px;
+    height: 13.025rem;
+    /* width: 17rem; */
+    background-color: white;
+    /*criando shadow box*/
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+}
+
+.container {
+    box-sizing: border-box;
+    /* height: 15.438rem; */
+    width: 8.7rem;
+    display: flex;
+}
+
+.sizefotoprod {
+    height: inherit;
+    width: inherit;
+}
+
+.fotoprod {
+    border-radius: 6px 0px 0px 8px;
+    width: inherit;
+}
+
+.descrprod {
+    height: inherit;
+    width: 8rem;
+    font-size: 14px;
+}
+
+.containerfrases {
+    box-sizing: border-box;
+    width: inherit;
+    height: inherit;
+    padding: 15px;
+}
+
+.titulosessao {
+    box-sizing: border-box;
+    color: #6C7289;
+    font-size: 0.35rem;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.25rem;
+}
+
+.tituloprod {
+    box-sizing: border-box;
+    color: #1C232B;
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    font-family: 'Fraunces', serif;
+}
+
+.textoprod {
+    box-sizing: border-box;
+    color: #6C7289;
+    line-height: 0.6rem;
+    font-size: 0.35rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0.5rem;
+}
+
+.preco-atual {
+    box-sizing: border-box;
+    color: #3C8067;
+    margin-top: 0.5rem;
+    margin-left: inherit;
+    font-family: 'Fraunces', serif;
+}
+
+.preco-antigo {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.4rem;
+    vertical-align: middle;
+}
+
+.display {
+    position: absolute;
+    border: none;
+}
+
+.botao {border-radius: 5px;
+    padding: 0px 1.5rem 0rem 2rem;
+    border: none;
+    background: #3C8067;
+    margin-top: 0.5rem;
+    color: white;
+    /*criando transicao e ponteiro no botao*/
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+/*aplicando a mudança no botão ao clicar*/
+.botao:hover {background-color: #1a4031;
+    color: white;
+}
+
+.carrinho {
+    /* position: relative; */
+    transform: translate(-5px);
+    width: 0.5rem;
+}
+
+.msgbotao {
+    font-family: 'Montserrat', sans-serif; /* letter-spacing: 0.1rem; */
+    vertical-align: middle;
+    letter-spacing: 0.0rem;
+    font-size: 0.4rem;
+}
+
+{
+    -Dark cyan: hsl(158, 36%, 37%)
+;
+    -Cream: hsl(30, 38%, 92%)
+;
+    -Very dark
+    blue: hsl(212, 21%, 14%)
+;
+    -Dark grayish
+    blue: hsl(228, 12%, 48%)
+;
+    -White: hsl(0, 0%, 100%)
+;
